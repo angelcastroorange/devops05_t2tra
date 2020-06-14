@@ -1,0 +1,1 @@
+Texto del trabajo 2  (Objetivos ) : Practicar y afianzar los conocimientos estudiados referentes a la integración continua (CI) y a su implementación a través de herramientas, en este caso Jenkins.
